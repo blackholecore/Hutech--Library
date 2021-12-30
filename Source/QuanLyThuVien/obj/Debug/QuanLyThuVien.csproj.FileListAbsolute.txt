@@ -1,0 +1,204 @@
+C:\Users\Admin\Desktop\QuanLyThuVien\QuanLyThuVien\bin\Debug\QuanLyThuVien.exe.config
+C:\Users\Admin\Desktop\QuanLyThuVien\QuanLyThuVien\bin\Debug\QuanLyThuVien.exe
+C:\Users\Admin\Desktop\QuanLyThuVien\QuanLyThuVien\bin\Debug\QuanLyThuVien.pdb
+C:\Users\Admin\Desktop\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.Properties.Resources.resources
+C:\Users\Admin\Desktop\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.csproj.GenerateResource.Cache
+C:\Users\Admin\Desktop\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.exe
+C:\Users\Admin\Desktop\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.pdb
+C:\Users\Admin\Desktop\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.FrmQLSach.resources
+C:\Users\Admin\Desktop\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.Main.resources
+C:\Users\Admin\Desktop\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.FrmQLDocGia.resources
+C:\Users\Admin\Desktop\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.FrmQLThe.resources
+C:\Users\Admin\Desktop\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.FrmMuonTraSach.resources
+C:\Users\Admin\Desktop\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Desktop\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.FrmDangNhap.resources
+C:\Users\Admin\Desktop\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.FrmQuanLy.resources
+C:\Users\Admin\Desktop\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.FrmTaiKhoan.resources
+C:\Users\Admin\Desktop\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.FrmQLThuThu.resources
+C:\Users\Admin\Desktop\DA_CNPM_NHOM_3\QuanLyThuVien\bin\Debug\QuanLyThuVien.exe.config
+C:\Users\Admin\Desktop\DA_CNPM_NHOM_3\QuanLyThuVien\obj\Debug\QuanLyThuVien.exe
+C:\Users\Admin\Desktop\DA_CNPM_NHOM_3\QuanLyThuVien\obj\Debug\QuanLyThuVien.pdb
+C:\Users\Admin\Desktop\DA_CNPM_NHOM_3\QuanLyThuVien\bin\Debug\QuanLyThuVien.exe
+C:\Users\Admin\Desktop\DA_CNPM_NHOM_3\QuanLyThuVien\bin\Debug\QuanLyThuVien.pdb
+C:\Users\Admin\Desktop\DA_CNPM_NHOM_3\QuanLyThuVien\obj\Debug\QuanLyThuVien.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Desktop\DA_CNPM_NHOM_3\QuanLyThuVien\obj\Debug\QuanLyThuVien.FrmDangNhap.resources
+C:\Users\Admin\Desktop\DA_CNPM_NHOM_3\QuanLyThuVien\obj\Debug\QuanLyThuVien.FrmMuonTraSach.resources
+C:\Users\Admin\Desktop\DA_CNPM_NHOM_3\QuanLyThuVien\obj\Debug\QuanLyThuVien.FrmQLDocGia.resources
+C:\Users\Admin\Desktop\DA_CNPM_NHOM_3\QuanLyThuVien\obj\Debug\QuanLyThuVien.FrmQLSach.resources
+C:\Users\Admin\Desktop\DA_CNPM_NHOM_3\QuanLyThuVien\obj\Debug\QuanLyThuVien.FrmQLThe.resources
+C:\Users\Admin\Desktop\DA_CNPM_NHOM_3\QuanLyThuVien\obj\Debug\QuanLyThuVien.FrmQLThuThu.resources
+C:\Users\Admin\Desktop\DA_CNPM_NHOM_3\QuanLyThuVien\obj\Debug\QuanLyThuVien.FrmQuanLy.resources
+C:\Users\Admin\Desktop\DA_CNPM_NHOM_3\QuanLyThuVien\obj\Debug\QuanLyThuVien.FrmTaiKhoan.resources
+C:\Users\Admin\Desktop\DA_CNPM_NHOM_3\QuanLyThuVien\obj\Debug\QuanLyThuVien.Main.resources
+C:\Users\Admin\Desktop\DA_CNPM_NHOM_3\QuanLyThuVien\obj\Debug\QuanLyThuVien.Properties.Resources.resources
+C:\Users\Admin\Desktop\DA_CNPM_NHOM_3\QuanLyThuVien\obj\Debug\QuanLyThuVien.csproj.GenerateResource.Cache
+C:\Users\Admin\Desktop\DA_CNPM_NHOM_3\QuanLyThuVien\obj\Debug\QuanLyThuVien.FrmThongKe.resources
+C:\Users\MyPC\Downloads\DA_CNPM_NHOM_3\QuanLyThuVien\bin\Debug\QuanLyThuVien.exe.config
+C:\Users\MyPC\Downloads\DA_CNPM_NHOM_3\QuanLyThuVien\obj\Debug\QuanLyThuVien.exe
+C:\Users\MyPC\Downloads\DA_CNPM_NHOM_3\QuanLyThuVien\obj\Debug\QuanLyThuVien.pdb
+C:\Users\MyPC\Downloads\DA_CNPM_NHOM_3\QuanLyThuVien\bin\Debug\QuanLyThuVien.exe
+C:\Users\MyPC\Downloads\DA_CNPM_NHOM_3\QuanLyThuVien\bin\Debug\QuanLyThuVien.pdb
+C:\Users\MyPC\Downloads\DA_CNPM_NHOM_3\QuanLyThuVien\obj\Debug\QuanLyThuVien.csprojResolveAssemblyReference.cache
+C:\Users\MyPC\Downloads\DA_CNPM_NHOM_3\QuanLyThuVien\obj\Debug\QuanLyThuVien.FrmDangNhap.resources
+C:\Users\MyPC\Downloads\DA_CNPM_NHOM_3\QuanLyThuVien\obj\Debug\QuanLyThuVien.FrmMuonTraSach.resources
+C:\Users\MyPC\Downloads\DA_CNPM_NHOM_3\QuanLyThuVien\obj\Debug\QuanLyThuVien.FrmQLDocGia.resources
+C:\Users\MyPC\Downloads\DA_CNPM_NHOM_3\QuanLyThuVien\obj\Debug\QuanLyThuVien.FrmQLSach.resources
+C:\Users\MyPC\Downloads\DA_CNPM_NHOM_3\QuanLyThuVien\obj\Debug\QuanLyThuVien.FrmQLThe.resources
+C:\Users\MyPC\Downloads\DA_CNPM_NHOM_3\QuanLyThuVien\obj\Debug\QuanLyThuVien.FrmQLThuThu.resources
+C:\Users\MyPC\Downloads\DA_CNPM_NHOM_3\QuanLyThuVien\obj\Debug\QuanLyThuVien.FrmQuanLy.resources
+C:\Users\MyPC\Downloads\DA_CNPM_NHOM_3\QuanLyThuVien\obj\Debug\QuanLyThuVien.FrmTaiKhoan.resources
+C:\Users\MyPC\Downloads\DA_CNPM_NHOM_3\QuanLyThuVien\obj\Debug\QuanLyThuVien.FrmThongKe.resources
+C:\Users\MyPC\Downloads\DA_CNPM_NHOM_3\QuanLyThuVien\obj\Debug\QuanLyThuVien.Main.resources
+C:\Users\MyPC\Downloads\DA_CNPM_NHOM_3\QuanLyThuVien\obj\Debug\QuanLyThuVien.Properties.Resources.resources
+C:\Users\MyPC\Downloads\DA_CNPM_NHOM_3\QuanLyThuVien\obj\Debug\QuanLyThuVien.csproj.GenerateResource.Cache
+C:\Users\MyPC\Downloads\DA_CNPM_NHOM_3\QuanLyThuVien\obj\Debug\QuanLyThuVien.FrmQuyDinh.resources
+F:\DA_CNPM_NHOM_3\QuanLyThuVien\bin\Debug\QuanLyThuVien.exe.config
+F:\DA_CNPM_NHOM_3\QuanLyThuVien\obj\Debug\QuanLyThuVien.exe
+F:\DA_CNPM_NHOM_3\QuanLyThuVien\obj\Debug\QuanLyThuVien.pdb
+F:\DA_CNPM_NHOM_3\QuanLyThuVien\bin\Debug\QuanLyThuVien.exe
+F:\DA_CNPM_NHOM_3\QuanLyThuVien\bin\Debug\QuanLyThuVien.pdb
+F:\DA_CNPM_NHOM_3\QuanLyThuVien\obj\Debug\QuanLyThuVien.csprojResolveAssemblyReference.cache
+F:\DA_CNPM_NHOM_3\QuanLyThuVien\obj\Debug\QuanLyThuVien.FrmDangNhap.resources
+F:\DA_CNPM_NHOM_3\QuanLyThuVien\obj\Debug\QuanLyThuVien.FrmMuonTraSach.resources
+F:\DA_CNPM_NHOM_3\QuanLyThuVien\obj\Debug\QuanLyThuVien.FrmQLDocGia.resources
+F:\DA_CNPM_NHOM_3\QuanLyThuVien\obj\Debug\QuanLyThuVien.FrmQLSach.resources
+F:\DA_CNPM_NHOM_3\QuanLyThuVien\obj\Debug\QuanLyThuVien.FrmQLThe.resources
+F:\DA_CNPM_NHOM_3\QuanLyThuVien\obj\Debug\QuanLyThuVien.FrmQLThuThu.resources
+F:\DA_CNPM_NHOM_3\QuanLyThuVien\obj\Debug\QuanLyThuVien.FrmQuanLy.resources
+F:\DA_CNPM_NHOM_3\QuanLyThuVien\obj\Debug\QuanLyThuVien.FrmQuyDinh.resources
+F:\DA_CNPM_NHOM_3\QuanLyThuVien\obj\Debug\QuanLyThuVien.FrmTaiKhoan.resources
+F:\DA_CNPM_NHOM_3\QuanLyThuVien\obj\Debug\QuanLyThuVien.FrmThongKe.resources
+F:\DA_CNPM_NHOM_3\QuanLyThuVien\obj\Debug\QuanLyThuVien.Main.resources
+F:\DA_CNPM_NHOM_3\QuanLyThuVien\obj\Debug\QuanLyThuVien.Properties.Resources.resources
+F:\DA_CNPM_NHOM_3\QuanLyThuVien\obj\Debug\QuanLyThuVien.csproj.GenerateResource.Cache
+D:\Hoc_Tap\CNPM_UD\DA_CNPM_NHOM_3\QuanLyThuVien\obj\Debug\QuanLyThuVien.csprojAssemblyReference.cache
+D:\Hoc_Tap\CNPM_UD\DA_CNPM_NHOM_3\QuanLyThuVien\obj\Debug\QuanLyThuVien.FrmDangNhap.resources
+D:\Hoc_Tap\CNPM_UD\DA_CNPM_NHOM_3\QuanLyThuVien\obj\Debug\QuanLyThuVien.FrmMuonTraSach.resources
+D:\Hoc_Tap\CNPM_UD\DA_CNPM_NHOM_3\QuanLyThuVien\obj\Debug\QuanLyThuVien.FrmQLDocGia.resources
+D:\Hoc_Tap\CNPM_UD\DA_CNPM_NHOM_3\QuanLyThuVien\obj\Debug\QuanLyThuVien.FrmQLSach.resources
+D:\Hoc_Tap\CNPM_UD\DA_CNPM_NHOM_3\QuanLyThuVien\obj\Debug\QuanLyThuVien.FrmQLThe.resources
+D:\Hoc_Tap\CNPM_UD\DA_CNPM_NHOM_3\QuanLyThuVien\obj\Debug\QuanLyThuVien.FrmQLThuThu.resources
+D:\Hoc_Tap\CNPM_UD\DA_CNPM_NHOM_3\QuanLyThuVien\obj\Debug\QuanLyThuVien.FrmQuanLy.resources
+D:\Hoc_Tap\CNPM_UD\DA_CNPM_NHOM_3\QuanLyThuVien\obj\Debug\QuanLyThuVien.FrmQuyDinh.resources
+D:\Hoc_Tap\CNPM_UD\DA_CNPM_NHOM_3\QuanLyThuVien\obj\Debug\QuanLyThuVien.FrmTaiKhoan.resources
+D:\Hoc_Tap\CNPM_UD\DA_CNPM_NHOM_3\QuanLyThuVien\obj\Debug\QuanLyThuVien.FrmThongKe.resources
+D:\Hoc_Tap\CNPM_UD\DA_CNPM_NHOM_3\QuanLyThuVien\obj\Debug\QuanLyThuVien.Main.resources
+D:\Hoc_Tap\CNPM_UD\DA_CNPM_NHOM_3\QuanLyThuVien\obj\Debug\QuanLyThuVien.Properties.Resources.resources
+D:\Hoc_Tap\CNPM_UD\DA_CNPM_NHOM_3\QuanLyThuVien\obj\Debug\QuanLyThuVien.csproj.GenerateResource.cache
+D:\Hoc_Tap\CNPM_UD\DA_CNPM_NHOM_3\QuanLyThuVien\obj\Debug\QuanLyThuVien.csproj.CoreCompileInputs.cache
+D:\Hoc_Tap\CNPM_UD\DA_CNPM_NHOM_3\QuanLyThuVien\obj\Debug\QuanLyThuVien.exe
+D:\Hoc_Tap\CNPM_UD\DA_CNPM_NHOM_3\QuanLyThuVien\obj\Debug\QuanLyThuVien.pdb
+D:\Hoc_Tap\CNPM_UD\DA_CNPM_NHOM_3\QuanLyThuVien\bin\Debug\QuanLyThuVien.exe.config
+D:\Hoc_Tap\CNPM_UD\DA_CNPM_NHOM_3\QuanLyThuVien\bin\Debug\QuanLyThuVien.exe
+D:\Hoc_Tap\CNPM_UD\DA_CNPM_NHOM_3\QuanLyThuVien\bin\Debug\QuanLyThuVien.pdb
+D:\Hoc_Tap\CNPM_UD\DA_CNPM_NHOM_3\QuanLyThuVien\obj\Debug\Interop.Office.dll
+D:\Hoc_Tap\CNPM_UD\DA_CNPM_NHOM_3\QuanLyThuVien\obj\Debug\QuanLyThuVien.csproj.ResolveComReference.cache
+C:\Users\DELL\Desktop\DA_CNPM_NHOM_3\Source\QuanLyThuVien\bin\Debug\QuanLyThuVien.exe.config
+C:\Users\DELL\Desktop\DA_CNPM_NHOM_3\Source\QuanLyThuVien\obj\Debug\Interop.Office.dll
+C:\Users\DELL\Desktop\DA_CNPM_NHOM_3\Source\QuanLyThuVien\obj\Debug\QuanLyThuVien.csproj.ResolveComReference.cache
+C:\Users\DELL\Desktop\DA_CNPM_NHOM_3\Source\QuanLyThuVien\obj\Debug\QuanLyThuVien.exe
+C:\Users\DELL\Desktop\DA_CNPM_NHOM_3\Source\QuanLyThuVien\obj\Debug\QuanLyThuVien.pdb
+C:\Users\DELL\Desktop\DA_CNPM_NHOM_3\Source\QuanLyThuVien\obj\Debug\QuanLyThuVien.csprojResolveAssemblyReference.cache
+C:\Users\DELL\Desktop\DA_CNPM_NHOM_3\Source\QuanLyThuVien\obj\Debug\QuanLyThuVien.FrmDangNhap.resources
+C:\Users\DELL\Desktop\DA_CNPM_NHOM_3\Source\QuanLyThuVien\obj\Debug\QuanLyThuVien.FrmMuonTraSach.resources
+C:\Users\DELL\Desktop\DA_CNPM_NHOM_3\Source\QuanLyThuVien\obj\Debug\QuanLyThuVien.FrmQLDocGia.resources
+C:\Users\DELL\Desktop\DA_CNPM_NHOM_3\Source\QuanLyThuVien\obj\Debug\QuanLyThuVien.FrmQLSach.resources
+C:\Users\DELL\Desktop\DA_CNPM_NHOM_3\Source\QuanLyThuVien\obj\Debug\QuanLyThuVien.FrmQLThe.resources
+C:\Users\DELL\Desktop\DA_CNPM_NHOM_3\Source\QuanLyThuVien\obj\Debug\QuanLyThuVien.FrmQLThuThu.resources
+C:\Users\DELL\Desktop\DA_CNPM_NHOM_3\Source\QuanLyThuVien\obj\Debug\QuanLyThuVien.FrmQuanLy.resources
+C:\Users\DELL\Desktop\DA_CNPM_NHOM_3\Source\QuanLyThuVien\obj\Debug\QuanLyThuVien.FrmQuyDinh.resources
+C:\Users\DELL\Desktop\DA_CNPM_NHOM_3\Source\QuanLyThuVien\obj\Debug\QuanLyThuVien.FrmTaiKhoan.resources
+C:\Users\DELL\Desktop\DA_CNPM_NHOM_3\Source\QuanLyThuVien\obj\Debug\QuanLyThuVien.FrmThongKe.resources
+C:\Users\DELL\Desktop\DA_CNPM_NHOM_3\Source\QuanLyThuVien\obj\Debug\QuanLyThuVien.Main.resources
+C:\Users\DELL\Desktop\DA_CNPM_NHOM_3\Source\QuanLyThuVien\obj\Debug\QuanLyThuVien.Properties.Resources.resources
+C:\Users\DELL\Desktop\DA_CNPM_NHOM_3\Source\QuanLyThuVien\obj\Debug\QuanLyThuVien.csproj.GenerateResource.Cache
+C:\Users\DELL\Desktop\DA_CNPM_NHOM_3\Source\QuanLyThuVien\bin\Debug\QuanLyThuVien.exe
+C:\Users\DELL\Desktop\DA_CNPM_NHOM_3\Source\QuanLyThuVien\bin\Debug\QuanLyThuVien.pdb
+C:\Users\DELL\Desktop\DA_CNPM_NHOM_3\Source\QuanLyThuVien\bin\Debug\Microsoft.QualityTools.Testing.Fakes.dll
+C:\Users\admin\OneDrive\Desktop\DA_CNPM_NHOM_3\DA_CNPM_NHOM_3\Source\QuanLyThuVien\bin\Debug\QuanLyThuVien.exe.config
+C:\Users\admin\OneDrive\Desktop\DA_CNPM_NHOM_3\DA_CNPM_NHOM_3\Source\QuanLyThuVien\bin\Debug\QuanLyThuVien.exe
+C:\Users\admin\OneDrive\Desktop\DA_CNPM_NHOM_3\DA_CNPM_NHOM_3\Source\QuanLyThuVien\bin\Debug\QuanLyThuVien.pdb
+C:\Users\admin\OneDrive\Desktop\DA_CNPM_NHOM_3\DA_CNPM_NHOM_3\Source\QuanLyThuVien\obj\Debug\QuanLyThuVien.csproj.AssemblyReference.cache
+C:\Users\admin\OneDrive\Desktop\DA_CNPM_NHOM_3\DA_CNPM_NHOM_3\Source\QuanLyThuVien\obj\Debug\QuanLyThuVien.csproj.ResolveComReference.cache
+C:\Users\admin\OneDrive\Desktop\DA_CNPM_NHOM_3\DA_CNPM_NHOM_3\Source\QuanLyThuVien\obj\Debug\QuanLyThuVien.FrmDangNhap.resources
+C:\Users\admin\OneDrive\Desktop\DA_CNPM_NHOM_3\DA_CNPM_NHOM_3\Source\QuanLyThuVien\obj\Debug\QuanLyThuVien.FrmMuonTraSach.resources
+C:\Users\admin\OneDrive\Desktop\DA_CNPM_NHOM_3\DA_CNPM_NHOM_3\Source\QuanLyThuVien\obj\Debug\QuanLyThuVien.FrmQLDocGia.resources
+C:\Users\admin\OneDrive\Desktop\DA_CNPM_NHOM_3\DA_CNPM_NHOM_3\Source\QuanLyThuVien\obj\Debug\QuanLyThuVien.FrmQLSach.resources
+C:\Users\admin\OneDrive\Desktop\DA_CNPM_NHOM_3\DA_CNPM_NHOM_3\Source\QuanLyThuVien\obj\Debug\QuanLyThuVien.FrmQLThe.resources
+C:\Users\admin\OneDrive\Desktop\DA_CNPM_NHOM_3\DA_CNPM_NHOM_3\Source\QuanLyThuVien\obj\Debug\QuanLyThuVien.FrmQLThuThu.resources
+C:\Users\admin\OneDrive\Desktop\DA_CNPM_NHOM_3\DA_CNPM_NHOM_3\Source\QuanLyThuVien\obj\Debug\QuanLyThuVien.FrmQuanLy.resources
+C:\Users\admin\OneDrive\Desktop\DA_CNPM_NHOM_3\DA_CNPM_NHOM_3\Source\QuanLyThuVien\obj\Debug\QuanLyThuVien.FrmQuyDinh.resources
+C:\Users\admin\OneDrive\Desktop\DA_CNPM_NHOM_3\DA_CNPM_NHOM_3\Source\QuanLyThuVien\obj\Debug\QuanLyThuVien.FrmTaiKhoan.resources
+C:\Users\admin\OneDrive\Desktop\DA_CNPM_NHOM_3\DA_CNPM_NHOM_3\Source\QuanLyThuVien\obj\Debug\QuanLyThuVien.FrmThongKe.resources
+C:\Users\admin\OneDrive\Desktop\DA_CNPM_NHOM_3\DA_CNPM_NHOM_3\Source\QuanLyThuVien\obj\Debug\QuanLyThuVien.Main.resources
+C:\Users\admin\OneDrive\Desktop\DA_CNPM_NHOM_3\DA_CNPM_NHOM_3\Source\QuanLyThuVien\obj\Debug\QuanLyThuVien.Properties.Resources.resources
+C:\Users\admin\OneDrive\Desktop\DA_CNPM_NHOM_3\DA_CNPM_NHOM_3\Source\QuanLyThuVien\obj\Debug\QuanLyThuVien.csproj.GenerateResource.cache
+C:\Users\admin\OneDrive\Desktop\DA_CNPM_NHOM_3\DA_CNPM_NHOM_3\Source\QuanLyThuVien\obj\Debug\QuanLyThuVien.csproj.CoreCompileInputs.cache
+C:\Users\admin\OneDrive\Desktop\DA_CNPM_NHOM_3\DA_CNPM_NHOM_3\Source\QuanLyThuVien\obj\Debug\QuanLyThuVien.csproj.CopyComplete
+C:\Users\admin\OneDrive\Desktop\DA_CNPM_NHOM_3\DA_CNPM_NHOM_3\Source\QuanLyThuVien\obj\Debug\QuanLyThuVien.exe
+C:\Users\admin\OneDrive\Desktop\DA_CNPM_NHOM_3\DA_CNPM_NHOM_3\Source\QuanLyThuVien\obj\Debug\QuanLyThuVien.pdb
+C:\Users\ACER\Downloads\ĐỒ ÁN QLTV-19DTHD4\Source\QuanLyThuVien\bin\Debug\QuanLyThuVien.exe.config
+C:\Users\ACER\Downloads\ĐỒ ÁN QLTV-19DTHD4\Source\QuanLyThuVien\bin\Debug\QuanLyThuVien.exe
+C:\Users\ACER\Downloads\ĐỒ ÁN QLTV-19DTHD4\Source\QuanLyThuVien\bin\Debug\QuanLyThuVien.pdb
+C:\Users\ACER\Downloads\ĐỒ ÁN QLTV-19DTHD4\Source\QuanLyThuVien\obj\Debug\QuanLyThuVien.csproj.AssemblyReference.cache
+C:\Users\ACER\Downloads\ĐỒ ÁN QLTV-19DTHD4\Source\QuanLyThuVien\obj\Debug\QuanLyThuVien.csproj.ResolveComReference.cache
+C:\Users\ACER\Downloads\ĐỒ ÁN QLTV-19DTHD4\Source\QuanLyThuVien\obj\Debug\QuanLyThuVien.FrmDangNhap.resources
+C:\Users\ACER\Downloads\ĐỒ ÁN QLTV-19DTHD4\Source\QuanLyThuVien\obj\Debug\QuanLyThuVien.FrmMuonTraSach.resources
+C:\Users\ACER\Downloads\ĐỒ ÁN QLTV-19DTHD4\Source\QuanLyThuVien\obj\Debug\QuanLyThuVien.FrmQLDocGia.resources
+C:\Users\ACER\Downloads\ĐỒ ÁN QLTV-19DTHD4\Source\QuanLyThuVien\obj\Debug\QuanLyThuVien.FrmQLSach.resources
+C:\Users\ACER\Downloads\ĐỒ ÁN QLTV-19DTHD4\Source\QuanLyThuVien\obj\Debug\QuanLyThuVien.FrmQLThe.resources
+C:\Users\ACER\Downloads\ĐỒ ÁN QLTV-19DTHD4\Source\QuanLyThuVien\obj\Debug\QuanLyThuVien.FrmQLThuThu.resources
+C:\Users\ACER\Downloads\ĐỒ ÁN QLTV-19DTHD4\Source\QuanLyThuVien\obj\Debug\QuanLyThuVien.FrmQuanLy.resources
+C:\Users\ACER\Downloads\ĐỒ ÁN QLTV-19DTHD4\Source\QuanLyThuVien\obj\Debug\QuanLyThuVien.FrmQuyDinh.resources
+C:\Users\ACER\Downloads\ĐỒ ÁN QLTV-19DTHD4\Source\QuanLyThuVien\obj\Debug\QuanLyThuVien.FrmTaiKhoan.resources
+C:\Users\ACER\Downloads\ĐỒ ÁN QLTV-19DTHD4\Source\QuanLyThuVien\obj\Debug\QuanLyThuVien.FrmThongKe.resources
+C:\Users\ACER\Downloads\ĐỒ ÁN QLTV-19DTHD4\Source\QuanLyThuVien\obj\Debug\QuanLyThuVien.Main.resources
+C:\Users\ACER\Downloads\ĐỒ ÁN QLTV-19DTHD4\Source\QuanLyThuVien\obj\Debug\QuanLyThuVien.Properties.Resources.resources
+C:\Users\ACER\Downloads\ĐỒ ÁN QLTV-19DTHD4\Source\QuanLyThuVien\obj\Debug\QuanLyThuVien.csproj.GenerateResource.cache
+C:\Users\ACER\Downloads\ĐỒ ÁN QLTV-19DTHD4\Source\QuanLyThuVien\obj\Debug\QuanLyThuVien.csproj.CoreCompileInputs.cache
+C:\Users\ACER\Downloads\ĐỒ ÁN QLTV-19DTHD4\Source\QuanLyThuVien\obj\Debug\QuanLyThuVien.csproj.CopyComplete
+C:\Users\ACER\Downloads\ĐỒ ÁN QLTV-19DTHD4\Source\QuanLyThuVien\obj\Debug\QuanLyThuVien.exe
+C:\Users\ACER\Downloads\ĐỒ ÁN QLTV-19DTHD4\Source\QuanLyThuVien\obj\Debug\QuanLyThuVien.pdb
+C:\Users\admin\source\repos\ĐỒ ÁN QLTV-19DTHD4\ĐỒ ÁN QLTV-19DTHD4\Source\QuanLyThuVien\bin\Debug\QuanLyThuVien.exe.config
+C:\Users\admin\source\repos\ĐỒ ÁN QLTV-19DTHD4\ĐỒ ÁN QLTV-19DTHD4\Source\QuanLyThuVien\bin\Debug\QuanLyThuVien.exe
+C:\Users\admin\source\repos\ĐỒ ÁN QLTV-19DTHD4\ĐỒ ÁN QLTV-19DTHD4\Source\QuanLyThuVien\bin\Debug\QuanLyThuVien.pdb
+C:\Users\admin\source\repos\ĐỒ ÁN QLTV-19DTHD4\ĐỒ ÁN QLTV-19DTHD4\Source\QuanLyThuVien\obj\Debug\QuanLyThuVien.csproj.ResolveComReference.cache
+C:\Users\admin\source\repos\ĐỒ ÁN QLTV-19DTHD4\ĐỒ ÁN QLTV-19DTHD4\Source\QuanLyThuVien\obj\Debug\QuanLyThuVien.FrmDangNhap.resources
+C:\Users\admin\source\repos\ĐỒ ÁN QLTV-19DTHD4\ĐỒ ÁN QLTV-19DTHD4\Source\QuanLyThuVien\obj\Debug\QuanLyThuVien.FrmMuonTraSach.resources
+C:\Users\admin\source\repos\ĐỒ ÁN QLTV-19DTHD4\ĐỒ ÁN QLTV-19DTHD4\Source\QuanLyThuVien\obj\Debug\QuanLyThuVien.FrmQLDocGia.resources
+C:\Users\admin\source\repos\ĐỒ ÁN QLTV-19DTHD4\ĐỒ ÁN QLTV-19DTHD4\Source\QuanLyThuVien\obj\Debug\QuanLyThuVien.FrmQLSach.resources
+C:\Users\admin\source\repos\ĐỒ ÁN QLTV-19DTHD4\ĐỒ ÁN QLTV-19DTHD4\Source\QuanLyThuVien\obj\Debug\QuanLyThuVien.FrmQLThe.resources
+C:\Users\admin\source\repos\ĐỒ ÁN QLTV-19DTHD4\ĐỒ ÁN QLTV-19DTHD4\Source\QuanLyThuVien\obj\Debug\QuanLyThuVien.FrmQLThuThu.resources
+C:\Users\admin\source\repos\ĐỒ ÁN QLTV-19DTHD4\ĐỒ ÁN QLTV-19DTHD4\Source\QuanLyThuVien\obj\Debug\QuanLyThuVien.FrmQuanLy.resources
+C:\Users\admin\source\repos\ĐỒ ÁN QLTV-19DTHD4\ĐỒ ÁN QLTV-19DTHD4\Source\QuanLyThuVien\obj\Debug\QuanLyThuVien.FrmQuyDinh.resources
+C:\Users\admin\source\repos\ĐỒ ÁN QLTV-19DTHD4\ĐỒ ÁN QLTV-19DTHD4\Source\QuanLyThuVien\obj\Debug\QuanLyThuVien.FrmTaiKhoan.resources
+C:\Users\admin\source\repos\ĐỒ ÁN QLTV-19DTHD4\ĐỒ ÁN QLTV-19DTHD4\Source\QuanLyThuVien\obj\Debug\QuanLyThuVien.FrmThongKe.resources
+C:\Users\admin\source\repos\ĐỒ ÁN QLTV-19DTHD4\ĐỒ ÁN QLTV-19DTHD4\Source\QuanLyThuVien\obj\Debug\QuanLyThuVien.Main.resources
+C:\Users\admin\source\repos\ĐỒ ÁN QLTV-19DTHD4\ĐỒ ÁN QLTV-19DTHD4\Source\QuanLyThuVien\obj\Debug\QuanLyThuVien.Properties.Resources.resources
+C:\Users\admin\source\repos\ĐỒ ÁN QLTV-19DTHD4\ĐỒ ÁN QLTV-19DTHD4\Source\QuanLyThuVien\obj\Debug\QuanLyThuVien.csproj.GenerateResource.cache
+C:\Users\admin\source\repos\ĐỒ ÁN QLTV-19DTHD4\ĐỒ ÁN QLTV-19DTHD4\Source\QuanLyThuVien\obj\Debug\QuanLyThuVien.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\ĐỒ ÁN QLTV-19DTHD4\ĐỒ ÁN QLTV-19DTHD4\Source\QuanLyThuVien\obj\Debug\QuanLyThuVien.csproj.CopyComplete
+C:\Users\admin\source\repos\ĐỒ ÁN QLTV-19DTHD4\ĐỒ ÁN QLTV-19DTHD4\Source\QuanLyThuVien\obj\Debug\QuanLyThuVien.exe
+C:\Users\admin\source\repos\ĐỒ ÁN QLTV-19DTHD4\ĐỒ ÁN QLTV-19DTHD4\Source\QuanLyThuVien\obj\Debug\QuanLyThuVien.pdb
+C:\Users\admin\OneDrive\Desktop\ĐỒ ÁN QLTV-19DTHD4\ĐỒ ÁN QLTV-19DTHD4\Source\QuanLyThuVien\bin\Debug\QuanLyThuVien.exe.config
+C:\Users\admin\OneDrive\Desktop\ĐỒ ÁN QLTV-19DTHD4\ĐỒ ÁN QLTV-19DTHD4\Source\QuanLyThuVien\bin\Debug\QuanLyThuVien.exe
+C:\Users\admin\OneDrive\Desktop\ĐỒ ÁN QLTV-19DTHD4\ĐỒ ÁN QLTV-19DTHD4\Source\QuanLyThuVien\bin\Debug\QuanLyThuVien.pdb
+C:\Users\admin\OneDrive\Desktop\ĐỒ ÁN QLTV-19DTHD4\ĐỒ ÁN QLTV-19DTHD4\Source\QuanLyThuVien\obj\Debug\QuanLyThuVien.csproj.AssemblyReference.cache
+C:\Users\admin\OneDrive\Desktop\ĐỒ ÁN QLTV-19DTHD4\ĐỒ ÁN QLTV-19DTHD4\Source\QuanLyThuVien\obj\Debug\QuanLyThuVien.csproj.ResolveComReference.cache
+C:\Users\admin\OneDrive\Desktop\ĐỒ ÁN QLTV-19DTHD4\ĐỒ ÁN QLTV-19DTHD4\Source\QuanLyThuVien\obj\Debug\QuanLyThuVien.FrmDangNhap.resources
+C:\Users\admin\OneDrive\Desktop\ĐỒ ÁN QLTV-19DTHD4\ĐỒ ÁN QLTV-19DTHD4\Source\QuanLyThuVien\obj\Debug\QuanLyThuVien.FrmMuonTraSach.resources
+C:\Users\admin\OneDrive\Desktop\ĐỒ ÁN QLTV-19DTHD4\ĐỒ ÁN QLTV-19DTHD4\Source\QuanLyThuVien\obj\Debug\QuanLyThuVien.FrmQLDocGia.resources
+C:\Users\admin\OneDrive\Desktop\ĐỒ ÁN QLTV-19DTHD4\ĐỒ ÁN QLTV-19DTHD4\Source\QuanLyThuVien\obj\Debug\QuanLyThuVien.FrmQLSach.resources
+C:\Users\admin\OneDrive\Desktop\ĐỒ ÁN QLTV-19DTHD4\ĐỒ ÁN QLTV-19DTHD4\Source\QuanLyThuVien\obj\Debug\QuanLyThuVien.FrmQLThe.resources
+C:\Users\admin\OneDrive\Desktop\ĐỒ ÁN QLTV-19DTHD4\ĐỒ ÁN QLTV-19DTHD4\Source\QuanLyThuVien\obj\Debug\QuanLyThuVien.FrmQLThuThu.resources
+C:\Users\admin\OneDrive\Desktop\ĐỒ ÁN QLTV-19DTHD4\ĐỒ ÁN QLTV-19DTHD4\Source\QuanLyThuVien\obj\Debug\QuanLyThuVien.FrmQuanLy.resources
+C:\Users\admin\OneDrive\Desktop\ĐỒ ÁN QLTV-19DTHD4\ĐỒ ÁN QLTV-19DTHD4\Source\QuanLyThuVien\obj\Debug\QuanLyThuVien.FrmQuyDinh.resources
+C:\Users\admin\OneDrive\Desktop\ĐỒ ÁN QLTV-19DTHD4\ĐỒ ÁN QLTV-19DTHD4\Source\QuanLyThuVien\obj\Debug\QuanLyThuVien.FrmTaiKhoan.resources
+C:\Users\admin\OneDrive\Desktop\ĐỒ ÁN QLTV-19DTHD4\ĐỒ ÁN QLTV-19DTHD4\Source\QuanLyThuVien\obj\Debug\QuanLyThuVien.FrmThongKe.resources
+C:\Users\admin\OneDrive\Desktop\ĐỒ ÁN QLTV-19DTHD4\ĐỒ ÁN QLTV-19DTHD4\Source\QuanLyThuVien\obj\Debug\QuanLyThuVien.Main.resources
+C:\Users\admin\OneDrive\Desktop\ĐỒ ÁN QLTV-19DTHD4\ĐỒ ÁN QLTV-19DTHD4\Source\QuanLyThuVien\obj\Debug\QuanLyThuVien.Properties.Resources.resources
+C:\Users\admin\OneDrive\Desktop\ĐỒ ÁN QLTV-19DTHD4\ĐỒ ÁN QLTV-19DTHD4\Source\QuanLyThuVien\obj\Debug\QuanLyThuVien.csproj.GenerateResource.cache
+C:\Users\admin\OneDrive\Desktop\ĐỒ ÁN QLTV-19DTHD4\ĐỒ ÁN QLTV-19DTHD4\Source\QuanLyThuVien\obj\Debug\QuanLyThuVien.csproj.CoreCompileInputs.cache
+C:\Users\admin\OneDrive\Desktop\ĐỒ ÁN QLTV-19DTHD4\ĐỒ ÁN QLTV-19DTHD4\Source\QuanLyThuVien\obj\Debug\QuanLyThuVien.csproj.CopyComplete
+C:\Users\admin\OneDrive\Desktop\ĐỒ ÁN QLTV-19DTHD4\ĐỒ ÁN QLTV-19DTHD4\Source\QuanLyThuVien\obj\Debug\QuanLyThuVien.exe
+C:\Users\admin\OneDrive\Desktop\ĐỒ ÁN QLTV-19DTHD4\ĐỒ ÁN QLTV-19DTHD4\Source\QuanLyThuVien\obj\Debug\QuanLyThuVien.pdb
